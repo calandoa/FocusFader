@@ -1,0 +1,20 @@
+//
+// Focus Fader
+//
+// Antoine calando - 2025 - Public domain
+//
+
+10001  ICON "focus_fader.ico"
+
+10002 MENU
+BEGIN
+    POPUP "POPUP"
+    BEGIN
+        MENUITEM "Enable",          10101, CHECKED
+        MENUITEM "Custom slider",   10102 // , INACTIVE
+        MENUITEM "Debug log",       10103
+        MENUITEM SEPARATOR          
+        MENUITEM "About",           10198
+        MENUITEM "Exit",            10199
+    END
+END
