@@ -3,7 +3,7 @@ This utility for Windows will fade all windows except the one with the keyboard 
 
 This is very usefull when several windows are visible on the desktop (e.g. with mutiple monitors) to know which one has the focus, as with the new Win10/11 UI and most applications, the title bar is not changing anymore.
 
-![Screen capture](capture.mp4)
+![Screen capture](./capture.png)
 
 ## Installation
 
